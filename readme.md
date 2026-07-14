@@ -211,21 +211,12 @@ A collection of real-world Bash scripting challenges focused on Linux administra
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Land a Senior DevOps / Cloud Engineer Role
-- ✅ Earn the CKA Certification
-- ✅ Master Kubernetes & AWS
-- ✅ Build 10+ Production-grade Projects
-- ✅ Contribute to Open Source
-- ✅ Strengthen System Design & Distributed Systems Knowledge
-
 ---
 
 # 📚 Philosophy
 
 > **"Learn by Building. Automate Everything. Keep Improving."**
-
+> **"Learn - Build - Automate"**
 ---
 
 # 📫 Connect With Me
