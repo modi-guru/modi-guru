@@ -10,9 +10,9 @@
 Passionate about building scalable cloud infrastructure, automating deployments, and solving real-world DevOps challenges.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/riteekrajmodi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/modi-guru)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:Yriteekrajm@gmail.com)
 
 </div>
 
@@ -223,11 +223,11 @@ A collection of real-world Bash scripting challenges focused on Linux administra
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/riteekrajmodi">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:riteekrajm@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
